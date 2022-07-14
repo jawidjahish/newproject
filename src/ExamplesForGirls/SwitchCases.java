@@ -15,6 +15,10 @@ public class SwitchCases {
 			System.out.println("this is wrong");
 			default:
 				System.out.println("default");
+				
+				
+				
+				String sss = "this is a test";
 		}
 	}
 
